@@ -1,2 +1,5 @@
 .dvt
 *.log
+sim/*.log
+sim/*.ucdb
+sim/work
